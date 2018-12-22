@@ -1,3 +1,5 @@
+The Python assignments and the rest of the readme have been gotten from this repo: https://github.com/dibgerge/ml-coursera-python-assignments
+
 # [Coursera Machine Learning MOOC by Andrew Ng](https://www.coursera.org/learn/machine-learning) 
 # Python Programming Assignments
 
